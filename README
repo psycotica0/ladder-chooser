@@ -1,0 +1,9 @@
+Takes options on stdin and makes a tournament-style ladder out of them.
+Then it goes around and asks the user who wins.
+
+I'll have a few choices:
+Left - Left one wins
+Right - Right one wins
+None - Neither move on
+
+The main point of this is that I'm bad at making decisions, and picking one item from a list is hard.
